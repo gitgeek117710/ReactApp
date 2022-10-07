@@ -2,7 +2,7 @@
   "name": "todolist",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gitgeek117710.github.io/ReactApp/.",
+  "homepage": "https://gitgeek117710.github.io/ReactApp/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
